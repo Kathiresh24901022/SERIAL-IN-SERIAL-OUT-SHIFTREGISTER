@@ -1,8 +1,6 @@
-## REG N0: 24901022
-## NAME:KATHIRESH M
-## EXPERIMENT 6: SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-
-
+## Reg no.: 24901022
+## Name : KATHIRESH M
+## Experiment 6: IMPLEMENTATION OF SERIAL IN SERIAL OUT SHIFTREGISTER
 
 *AIM:*
 
@@ -34,15 +32,18 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 4. Output the shifted bit from the last stage of the register.
 5. Repeat steps 2-4 for each bit you want to input and shift.
 
-
 *PROGRAM*
 
-![Screenshot 2025-01-04 142431](https://github.com/user-attachments/assets/bb6dd2a6-2dae-4144-8372-77fce2c3010f)
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/828e80e7-6bea-42b5-abe5-8feccc08a677)
 
 *RTL LOGIC FOR SISO Shift Register*
-![Screenshot 2025-01-04 142522](https://github.com/user-attachments/assets/b08d1f3f-f525-48c7-ae00-c1b44d1df602)
+
+![image](https://github.com/user-attachments/assets/08f57ea5-35b8-4df3-8825-8bd4e909d04f)
+
+*TIMING DIGRAMS FOR SISO Shift Register*
+
+![WhatsApp Image 2025-01-07 at 14 13 13_e80cda68](https://github.com/user-attachments/assets/c1aabcae-f742-4864-bb12-2525b24fb6d7)
+
+*RESULTS*
+
+The implementation of the SISO shift register in Verilog and validating their functionality was executed successfully.
